@@ -1,4 +1,4 @@
-# Reading Notes Project
+# BOOKMARK 
 
 I created this project when I was in high school and learning programming. I love reading books, but sometimes I must take a break. After a break, I couldn't remember where I was in the book and what was happening. So, this project helps me remember where I am in the book.
 
